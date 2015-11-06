@@ -1,0 +1,12 @@
+.panel-column-heading {
+    background-color: #8b5f32;
+    color: white;
+    padding-left: 2px;
+}
+.panel {
+    margin-bottom: 4px;
+}
+.panel-row {
+    margin-left: inherit;
+    margin-right: inherit;
+}
